@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Tobyy
 - 👀 I’m interested in Python and Arduino (C++)
 - 🌱 I’m currently learning Arduino
-- 😄 Pronouns: he/him
